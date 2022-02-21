@@ -16,7 +16,7 @@
 // along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
 // VoteDelegate - delegate your vote
-pragma solidity 0.6.12;
+pragma solidity >=0.6.12;
 
 interface TokenLike {
     function approve(address, uint256) external returns (bool);

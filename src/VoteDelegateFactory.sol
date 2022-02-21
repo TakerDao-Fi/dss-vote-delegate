@@ -16,7 +16,7 @@
 // along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
 // VoteDelegateFactory - create and keep record of delegats
-pragma solidity 0.6.12;
+pragma solidity >=0.6.12;
 
 import "./VoteDelegate.sol";
 
